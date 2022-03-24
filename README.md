@@ -1,7 +1,7 @@
 
 ## Hi there👋  I'm Zeynep
 
-🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C#, SQL, Html, Css, JavaScript </br></br> ⚡⚡⚡   </br></br>
+🔭I’m currently working on Backend Development</br></br>👩‍💻 I’m currently learning C#, SQL, Html, Css, JavaScript </br></br> ⚡⚡⚡   </br></br>
 
 ## 💬 Social Media & Contact with Me
 <p align="">
